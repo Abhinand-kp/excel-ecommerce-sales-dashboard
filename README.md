@@ -33,7 +33,7 @@ Business insights
 * Improved sales reporting and decision-making
 
 Dashboard preview
-"C:\Users\hp\OneDrive\Documents\Pictures\Screenshots\E-commerce sales dashboard.png"
+E-commerce sales dashboard.png
 
 Files included
 
