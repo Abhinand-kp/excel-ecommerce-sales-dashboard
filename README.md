@@ -34,7 +34,7 @@ Business insights
 
 ## Dashboard preview
 
-E-commerce sales dashboard.png
+![E-commerce Sales Dashboard](E-commerce-sales-dashboard.png)
 
 Files included
 
