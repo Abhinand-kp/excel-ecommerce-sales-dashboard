@@ -32,8 +32,9 @@ Business insights
 * Analyzed profit contribution
 * Improved sales reporting and decision-making
 
-Dashboard preview
-E-commerce sales dashboard.png
+## Dashboard preview
+
+![E-commerce Sales Dashboard](Dashboard Screenshot.png)
 
 Files included
 
